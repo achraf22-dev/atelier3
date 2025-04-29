@@ -1,0 +1,13 @@
+[
+    { "name": "Sac à dos de randonnée",   "price": 79.99, "category": "Outdoor",      "stock": 14 },
+    { "name": "Lampe de chevet",           "price": 29.50, "category": "Maison",       "stock":  8 },
+    { "name": "Batterie externe 10 000 mAh","price": 19.95, "category": "Électronique", "stock": 25 },
+    { "name": "T-shirt graphique",         "price": 22.00, "category": "Vêtements",    "stock":  0 },
+    { "name": "Jeu d’échecs en bois",      "price": 45.00, "category": "Jeux",         "stock":  4 },
+    { "name": "Coffret thé découverte",     "price": 16.75, "category": "Alimentation", "stock": 12 },
+    { "name": "Coussin décoratif",         "price": 18.90, "category": "Maison",       "stock":  6 },
+    { "name": "Casque Bluetooth",          "price": 59.99, "category": "Électronique", "stock":  3 },
+    { "name": "Roman policier",            "price": 12.50, "category": "Livres",       "stock": 20 },
+    { "name": "Ballon de foot",            "price": 25.00, "category": "Sport",        "stock": 10 }
+  ]
+  

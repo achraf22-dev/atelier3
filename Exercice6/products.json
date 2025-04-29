@@ -1,0 +1,7 @@
+[
+    { "name": "Ordinateur portable", "price": 999, "category": "Électronique", "stock": 10 },
+    { "name": "Clavier mécanique",      "price": 120, "category": "Informatique",  "stock":  3 },
+    { "name": "Souris sans fil",        "price":  45, "category": "Informatique",  "stock": 15 },
+    { "name": "Casque audio",           "price":  80, "category": "Électronique",  "stock":  2 },
+    { "name": "Lampe de bureau",        "price":  30, "category": "Maison",        "stock":  7 }
+  ]  

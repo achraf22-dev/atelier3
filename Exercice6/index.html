@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Exercice 6 – Traitement des produits</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  
+</head>
+<body>
+  <h1>Exercice 6</h1>
+  <input type="file" id="fileInput" accept=".json"><br>
+  <div class="controls">
+    <select id="categorySelect"><option value="">Toutes catégories</option></select>
+    <select id="sortSelect">
+      <option value="price">Trier par prix</option>
+      <option value="stock">Trier par stock</option>
+    </select>
+    <input type="text" id="searchInput" placeholder="Rechercher par nom...">
+  </div>
+  <canvas id="chart" width="600" height="300"></canvas>
+  <table>
+    <thead>
+      <tr><th>Nom</th><th>Catégorie</th><th>Prix</th><th>Stock</th></tr>
+    </thead>
+    <tbody id="tableBody"></tbody>
+  </table>
+  <pre id="summary"></pre>
+
+  <script src="script.js"></script>
+</body>
+</html>
