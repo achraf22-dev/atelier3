@@ -44,7 +44,7 @@ L'application permet de :
 
 ## ✍️ Auteur
 
-Réalisé par **El Badre Achraf**
+Réalisé par **El Badre Achraf** et **Nouioua Maryam** 
 Dans le cadre du module **Développement Web Front-End – Atelier 3**
 
 ---
